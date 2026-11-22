@@ -1,0 +1,17 @@
+# 개인 데이터·비밀값은 절대 올리지 않습니다
+*.ahk
+*.lock
+*.bak
+recent_folders.txt
+recent_work_files.txt
+pinned_work_files.txt
+folder_path.txt
+filename_rules.txt
+launcher.txt
+linklauncher.txt
+links.txt
+url.txt
+recent_urls.txt
+client_secret*.json
+*.xlsx
+node_modules/
